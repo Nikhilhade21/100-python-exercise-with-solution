@@ -1,1 +1,1 @@
-aabbbccde
+abbbccde
